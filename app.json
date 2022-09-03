@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "laskin_historia",
+    "slug": "laskin_historia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
